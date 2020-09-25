@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a highly motivated software developer who enjoys working collaboratively to solving complex problems. When I’m not behind a keyboard, I love to play board games and climb rocks 🧗‍! 
+I am a highly motivated software developer who enjoys working collaboratively to solve complex problems. When I’m not behind a keyboard, I love to play board games and climb rocks 🧗‍! 
 
 
 <!--
