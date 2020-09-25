@@ -1,4 +1,6 @@
-### Hi there 👋
+
+I am a highly motivated software developer who enjoys working collaboratively to solving complex problems. When I’m not behind a keyboard, I love to play board games and climb rocks 🧗‍! 
+
 
 <!--
 **karljohnbeck/karljohnbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
